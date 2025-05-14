@@ -20,3 +20,6 @@ Este proyecto fue desarrollado como práctica personal.
 ✅ Diseño responsive para móviles y desktop
 
 ✅ Scroll automático al último mensaje
+
+
+![chat](https://github.com/user-attachments/assets/f9d390b2-b2d5-48ec-8f28-55aad23b0b88)
