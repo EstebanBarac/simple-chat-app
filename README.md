@@ -22,4 +22,4 @@ Este proyecto fue desarrollado como práctica personal.
 ✅ Scroll automático al último mensaje
 
 
-![chat](https://github.com/user-attachments/assets/f9d390b2-b2d5-48ec-8f28-55aad23b0b88)
+![Sellary](https://github.com/user-attachments/assets/d8596058-2f50-434d-bf70-d62d33c7a799)
